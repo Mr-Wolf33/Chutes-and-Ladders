@@ -1,0 +1,11 @@
+* {
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+  
+  section{
+    width: 10%;
+    height: 100px;
+    float:left;
+    border: solid 2px red;
+}
