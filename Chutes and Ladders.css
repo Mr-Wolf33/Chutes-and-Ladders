@@ -9,3 +9,7 @@
     float:left;
     border: solid 2px red;
 }
+img {
+  width: 100%;
+  height: 100%;
+}
